@@ -17,4 +17,6 @@ name : Good morning
 description : "A skill that responds to 'good morning' with cherrful greeting.
 
 ---
+# Good morning
+
 when the user say 'good morning', respond with Hi viccky, ask if he have any pending office work to do today and then send a funny joke about office.
